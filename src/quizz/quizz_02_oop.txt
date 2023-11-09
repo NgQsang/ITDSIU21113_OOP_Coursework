@@ -1,0 +1,24 @@
+Given a class
+public class Particle {
+   private int x;
+   private int y;
+   private int getRandom() {
+      //return a number among {-1, 0, 1}
+   }
+   public void move() {
+      int dx = getRandom();
+      int dy = getRandom();
+      x += dx; y += dy;
+   }
+    public Particle(int intX, int int Y) {
+      x = intX; y = intY;
+   }
+}
+public class Test {
+   public void testParticles() { // TO IMPLEMENT }
+}
+
+1.Create getter functions for x and y in the testParticles function
+2. Create two particles
+3. Make them move
+4. Check whether two particles collide
