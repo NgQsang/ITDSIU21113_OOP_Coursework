@@ -2,9 +2,9 @@
 public class TestRectangle {
     public static void main(String[] args) {
         //instantiate 5 different rectangles
-        Rectangle r1 = new Rectangle(10, 5);
-        Rectangle r2 = new Rectangle(20, 10);
-        Rectangle r3 = new Rectangle(40, 20);
+        Rectangle r1 = new Rectangle(15, 4);
+        Rectangle r2 = new Rectangle(30, 10);
+        Rectangle r3 = new Rectangle(50, 20);
         Rectangle r4 = new Rectangle(60, 40);
         Rectangle r5 = new Rectangle(-20, -10);
 
