@@ -65,9 +65,24 @@ Setting up the working environment (Basic IDE can using Java)
 │   ├── lab5.pdf
 │   ├── lab6.pdf   
 │   ├── lab7.pdf    
-├── CNAME
-├── index.html
-├── rate.html
+├── src
+│   ├── lab_1
+|       ├── Item.java
+│       ├── Order.java
+│       ├── Point.java
+│       ├── TestPoint.java
+|       ├── TestE_commerceOrder
+|       ├── Rectangle
+|       ├── TestRectangle
+│       ├── Triangle
+│       ├── TestTriangle
+│   ├── lab_2
+|   ├── lab_3
+|   ├── lab_4
+|   ├── lab_5
+|   ├── lab_6
+|   ├── lab_7
+├── LICENSE
 └── README.md
 ```
 
