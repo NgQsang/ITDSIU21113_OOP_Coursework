@@ -6,7 +6,7 @@
 </p>
 - Object-Oriented Programming Lab at an International University - VNUHCM - International University
 
-## :ledger: Index
+## Index
 
 - [About](#beginner-about)
 - [Usage](#zap-usage)
