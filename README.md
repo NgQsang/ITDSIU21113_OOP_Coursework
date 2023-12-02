@@ -9,12 +9,10 @@
 ## Index
 
 - [About](#beginner-about)
-  - [Installation](#electric_plug-installation)
 - [Development](#wrench-development)
   - [Pre-Requisites](#notebook-pre-requisites)
   - [Developmen Environment](#nut_and_bolt-development-environment)
   - [File Structure](#file_folder-file-structure)
-  - [Deployment](#rocket-deployment)  
 - [FAQ](#question-faq)
 - [Resources](#page_facing_up-resources)
 - [License](#lock-license)
@@ -22,13 +20,6 @@
 ## About
 Add a detailed introduction about the project here, everything you want the reader to know.
 
-## Installation
-- Steps on how to install this project, to use it.
-- Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
-
-```
-$ add installations steps if you have to.
-```
 ## Development
 
 ### Pre-Requisites
@@ -41,8 +32,7 @@ Write about setting up the working environment for your project.
 - How to download the project...
 - How to install dependencies...
 
-
-## File Structure
+### File Structure
 Add a file structure here with the basic details about files, below is an example.
 
 ```
