@@ -42,6 +42,11 @@ to get values for x and y of the point. In the class WITHOUT having getter metho
 write a method double distance(Point target) to compute the distance from the current point and the given target point.
 (+) Note: the distance d between two points A and B can be computed with the following formula
 
+<p align="center">
+  <img src="img/example-image.png" alt="Image Alt Text">
+</p>
+
+
 
 ### 4) 
 
