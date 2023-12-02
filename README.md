@@ -49,19 +49,22 @@ Setting up the working environment (Basic IDE can using Java)
 ### File Structure
 ```
 .
-├── assets
-│   ├── css
-│   │   ├── index-ui.css
-│   │   └── rate-ui.css
-│   ├── images
-│   │   ├── icons
-│   │   │   ├── shrink-button.png
-│   │   │   └── umbrella.png
-│   │   ├── logo_144.png
-│   │   └── Untitled-1.psd
-│   └── javascript
-│       ├── index.js
-│       └── rate.js
+├── .zip
+│   ├── lab1.zip
+│   ├── lab2.zip
+│   ├── lab3.zip
+│   ├── lab4.zip
+|   ├── lab5.pdf
+|   ├── lab6.pdf
+|   ├── lab7.pdf
+│── pdf
+│   ├── lab1.pdf
+│   ├── lab2.pdf
+│   ├── lab3.pdf
+│   ├── lab4.pdf
+│   ├── lab5.pdf
+│   ├── lab6.pdf   
+│   ├── lab7.pdf    
 ├── CNAME
 ├── index.html
 ├── rate.html
