@@ -15,6 +15,8 @@
   - [File Structure](#file_folder-file-structure)
 - [FAQ](#question-faq)
 - [Resources](#page_facing_up-resources)
+  - [Lab-session3]
+  - [Lab-session4]
 - [License](#lock-license)
 
 ## About
@@ -64,9 +66,13 @@ Add a file structure here with the basic details about files, below is an exampl
 [Ask a question](https://github.com/NgQsang/OOP_LAB/issues)
 
 ## Resources
-(+) Lab session 3
+### (+) Lab session 3
 [Oracle Java Documentation](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)
 , [Inheritance in Java Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
+### (+) Lab session 4
+[Java How to program](https://github.com/nikhil-vytla/Java-How-to-Program-(Early-Objects)-10th-Edition.pdf)
+, [Download Code Examples](https://github.com/pdeitel/JavaHowToProgram10eEarlyObjectsVersion)
+, [Swing Tutorial](https://www.tutorialspoint.com/swing/index.htm)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
