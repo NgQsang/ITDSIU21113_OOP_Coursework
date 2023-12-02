@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://www2.hcmiu.edu.vn/Portals/1/Images/logo%20%26%20gallery/logo.png" alt="Logo" width="200" height="200">
 </p>
-Object-Oriented Programming Lab at an International University - VNUHCM - International University
+- Object-Oriented Programming Lab at an International University - VNUHCM - International University
 
 ## Index
 
