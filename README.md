@@ -71,7 +71,7 @@ Add a file structure here with the basic details about files, below is an exampl
 | 1  | index | Entry point
 
 ## FAQ
-You can optionally add a FAQ section about the project.
+[Ask a question](https://github.com/NgQsang/OOP_LAB/issues)
 
 ## Resources
 Add important resources here
