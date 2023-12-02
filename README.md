@@ -23,18 +23,19 @@ Add a detailed introduction about the project here, everything you want the read
 ## Development
 
 ### Pre-Requisites
-List all the pre-requisites the system needs to develop this project.
-- A tool
-- B tool
+4 Basic Concepts of OOP and some Concepts of Interfaces, JFrame, JPanel, Graphics
+- Abstraction
+- Encapsulation
+- Polymorphism
+- Inheritance
 
 ### Development Environment
-Write about setting up the working environment for your project.
-- How to download the project...
-- How to install dependencies...
+Setting up the working environment(Basic IDE can using Java)
+- Visual Studio Code
+- Eclipe
+- etc,..
 
 ### File Structure
-Add a file structure here with the basic details about files, below is an example.
-
 ```
 .
 ├── assets
