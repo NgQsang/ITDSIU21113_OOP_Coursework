@@ -30,9 +30,10 @@ Add a detailed introduction about the project here, everything you want the read
 - Inheritance
 
 ### Development Environment
-Setting up the working environment(Basic IDE can using Java)
+Setting up the working environment (Basic IDE can using Java)
 - Visual Studio Code
 - Eclipe
+- Java Development Kit
 - etc,..
 
 ### File Structure
