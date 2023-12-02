@@ -9,19 +9,14 @@
 ## Index
 
 - [About](#beginner-about)
-- [Usage](#zap-usage)
   - [Installation](#electric_plug-installation)
-  - [Commands](#package-commands)
 - [Development](#wrench-development)
   - [Pre-Requisites](#notebook-pre-requisites)
   - [Developmen Environment](#nut_and_bolt-development-environment)
   - [File Structure](#file_folder-file-structure)
-  - [Build](#hammer-build)  
   - [Deployment](#rocket-deployment)  
 - [FAQ](#question-faq)
 - [Resources](#page_facing_up-resources)
-- [Gallery](#camera-gallery)
-- [Credit/Acknowledgment](#star2-creditacknowledgment)
 - [License](#lock-license)
 
 ## About
@@ -34,12 +29,14 @@ Add a detailed introduction about the project here, everything you want the read
 ```
 $ add installations steps if you have to.
 ```
-## Pre-Requisites
+## Development
+
+### Pre-Requisites
 List all the pre-requisites the system needs to develop this project.
 - A tool
 - B tool
 
-## Development Environment
+### Development Environment
 Write about setting up the working environment for your project.
 - How to download the project...
 - How to install dependencies...
