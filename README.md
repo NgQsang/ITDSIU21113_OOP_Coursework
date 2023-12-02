@@ -20,37 +20,14 @@ Object-Oriented Programming Lab at an International University - VNUHCM - Intern
 ## About
 We will go through all 7 labs in this repository
 
-## Lab 1 
-### 1) Rectangle Visualization
-(+) Write a class Rectangle which has
-- Two attributes width and height with appropriate getter methods
-- A constructor that requires values for width and height of the rectangle. If either of the 
-inputs is negative, print an error message and set the corresponding attribute to 1.
-- A visualize method to display the rectangle using * symbol
-### TestRectangle
-(+) Write a class TestRectangle with a main method to instantiate 5 different rectangles and visualize them.
-
-### 2) Triangle Verification 
-(+) Write a Triangle class which has 3 attributes, the length of 3 sides. The class has appropriate
-constructor and get methods. This class has a method String verify() to check and return type of 
-the Triangle. The types can be Not Triangle, Equilateral, Isosceles or Scalene. Create another
-class which has a main() method to receive the length of 3 sides, verify it and display the result.
-
-### 3)  Distance
-(+) Write a Point class that has private attributes for coordinates x and y. The class has constructor 
-to get values for x and y of the point. In the class WITHOUT having getter methods for x and y, 
-write a method double distance(Point target) to compute the distance from the current point and the given target point.
-(+) Note: the distance d between two points A and B can be computed with the following formula
-
-<p align="center">
-  <img src="img/example-image.png" alt="Image Alt Text">
-</p>
-
-
-
-### 4) 
-
-
+### Lab 1 Rectangle Visualization, Triangle Verification, Distance, E-commerce Order
+[PDF Folder](pdf/Lab1.pdf)
+### Lab 2 Box of particles
+[PDF Folder](pdf/Lab2.pdf)
+### Lab 3 Inheritance
+[PDF Folder](pdf/Lab3.pdf)
+### Lab 4 
+[PDF Folder](pdf/Lab4.pdf)
 
 
 ## Development
@@ -72,19 +49,22 @@ Setting up the working environment (Basic IDE can using Java)
 ### File Structure
 ```
 .
-├── assets
-│   ├── css
-│   │   ├── index-ui.css
-│   │   └── rate-ui.css
-│   ├── images
-│   │   ├── icons
-│   │   │   ├── shrink-button.png
-│   │   │   └── umbrella.png
-│   │   ├── logo_144.png
-│   │   └── Untitled-1.psd
-│   └── javascript
-│       ├── index.js
-│       └── rate.js
+├── .zip
+│   ├── lab1.zip
+│   ├── lab2.zip
+│   ├── lab3.zip
+│   ├── lab4.zip
+|   ├── lab5.pdf
+|   ├── lab6.pdf
+|   ├── lab7.pdf
+│── pdf
+│   ├── lab1.pdf
+│   ├── lab2.pdf
+│   ├── lab3.pdf
+│   ├── lab4.pdf
+│   ├── lab5.pdf
+│   ├── lab6.pdf   
+│   ├── lab7.pdf    
 ├── CNAME
 ├── index.html
 ├── rate.html
