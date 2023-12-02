@@ -18,7 +18,10 @@ Object-Oriented Programming Lab at an International University - VNUHCM - Intern
 - [License](#lock-license)
 
 ## About
-Add a detailed introduction about the project here, everything you want the reader to know.
+We will go through all 7 labs in this repository
+
+### Lab 1
+
 
 ## Development
 
