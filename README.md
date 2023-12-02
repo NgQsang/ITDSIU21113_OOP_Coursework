@@ -15,8 +15,6 @@
   - [File Structure](#file_folder-file-structure)
 - [FAQ](#question-faq)
 - [Resources](#page_facing_up-resources)
-  - [Lab-session3](#resources)
-  - [Lab-session4](#resources)
 - [License](#lock-license)
 
 ## About
