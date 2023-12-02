@@ -64,7 +64,9 @@ Add a file structure here with the basic details about files, below is an exampl
 [Ask a question](https://github.com/NgQsang/OOP_LAB/issues)
 
 ## Resources
-Add important resources here
+(+) Lab session 3
+[Oracle Java Documentation](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)
+, [Inheritance in Java Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
