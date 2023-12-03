@@ -45,9 +45,13 @@ We will go through all 7 labs in this repository
 </p>
 
 ### Lab 4 
-
 [PDF Folder](pdf/Lab4.pdf)
-
+<p align="center">
+  <img src="res/lab4_img.jpg" alt="Image Alt Text">
+</p>
+<p align="center">
+  <img src="res/lab4_.jpg" alt="Image Alt Text">
+</p>
 
 ## Development
 
