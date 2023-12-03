@@ -85,11 +85,6 @@ Setting up the working environment (Basic IDE can using Java)
 ├── LICENSE
 └── README.md
 ```
-
-| No | File Name | Details 
-|----|------------|-------|
-| 1  | index | Entry point
-
 ## FAQ
 [Ask a question](https://github.com/NgQsang/OOP_LAB/issues)
 
