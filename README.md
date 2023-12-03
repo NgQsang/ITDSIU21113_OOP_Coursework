@@ -90,18 +90,67 @@ Setting up the working environment (Basic IDE can using Java)
 │   ├── lab7.pdf    
 ├── src
 │   ├── lab_1
-|       ├── Item.java
-│       ├── Order.java
-│       ├── Point.java
-│       ├── TestPoint.java
-|       ├── TestE_commerceOrder
-|       ├── Rectangle
-|       ├── TestRectangle
-│       ├── Triangle
-│       ├── TestTriangle
+|   |   ├── Item.java
+│   |   ├── Order.java
+│   |   ├── Point.java
+│   |   ├── TestPoint.java
+|   |   ├── TestE_commerceOrder
+|   |   ├── Rectangle
+|   |   ├── TestRectangle
+│   |   ├── Triangle
+│   |   ├── TestTriangle
 │   ├── lab_2
+|   |   ├── Box.java
+|   |   ├── Particle.java
+|   |   ├── Test.java
 |   ├── lab_3
+|   |   ├── question1
+|   |   |   ├── Main.java
+|   |   |   ├── MyBoundedShape.java
+|   |   |   ├── MyLine.java
+|   |   |   ├── MyOval.java
+|   |   |   ├── MyRectangle.java
+|   |   |   ├── MyShape.java
+|   |   ├── question2
+|   |   |   ├── Main.java
+|   |   |   ├── MyPoint.java
+|   |   |   ├── MyTriangle.java
+|   |   ├── question3
+|   |   |   ├── Main.java
+|   |   |   ├── Person.java
+|   |   |   ├── Staff.java
+|   |   |   ├── Student.java
+|   |   ├── question4
+|   |       ├── Main.java
+|   |       ├── Point2D.java
+|   |       ├── Point3D.java
 |   ├── lab_4
+|   |   ├── question1
+|   |   |   ├── UserDialog.java
+|   |   ├── question2
+|   |   |   ├── Main.java
+|   |   |   ├── DrawPanel.java
+|   |   ├── question3a
+|   |   |   ├── Main.java
+|   |   |   ├── Line1.java
+|   |   ├── question3b
+|   |   |   ├── Maib.java
+|   |   |   ├── Line2.java
+|   |   ├── question4a
+|   |   |   ├── Main.java
+|   |   |   ├── Line1.java
+|   |   ├── question4b
+|   |   |   ├── Main.java
+|   |   |   ├── Line2.java
+|   |   ├── question5a
+|   |   |   ├── Main.java
+|   |   |   ├── Square_Spiral.java
+|   |   ├── question5b
+|   |   |   ├── Main.java
+|   |   |   ├── Circular_Spiral.java
+|   |   ├── question6
+|   |       ├── Main.java
+|   |       ├── BarChart.java
 |   ├── lab_5
 |   ├── lab_6
 |   ├── lab_7
