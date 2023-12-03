@@ -22,11 +22,30 @@ We will go through all 7 labs in this repository
 
 ### Lab 1 Rectangle Visualization, Triangle Verification, Distance, E-commerce Order
 [PDF Folder](pdf/Lab1.pdf)
-### Lab 2 Box of particles
+
+### Lab 2 Box of particles 
 [PDF Folder](pdf/Lab2.pdf)
+<p align="center">
+  <img src="res/lab2_img.jpg" alt="Image Alt Text">
+</p>
+
 ### Lab 3 Inheritance
 [PDF Folder](pdf/Lab3.pdf)
+<p align="center">
+  <img src="res/lab3_img.jpg" alt="Image Alt Text">
+</p>
+<p align="center">
+  <img src="res/lab3_02_img.jpg" alt="Image Alt Text">
+</p>
+<p align="center">
+  <img src="res/lab3_03_img.jpg" alt="Image Alt Text">
+</p>
+<p align="center">
+  <img src="res/lab3_04_img.jpg" alt="Image Alt Text">
+</p>
+
 ### Lab 4 
+
 [PDF Folder](pdf/Lab4.pdf)
 
 
