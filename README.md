@@ -171,3 +171,7 @@ Setting up the working environment (Basic IDE can using Java)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Copyright
+© Copyright NgQsang : All rights reserved.
+Not to be used for commercial purposes.
