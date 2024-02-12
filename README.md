@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://www2.hcmiu.edu.vn/Portals/1/Images/logo%20%26%20gallery/logo.png" alt="Logo" width="200" height="200">
 </p>
+<p align="center">
 Object-Oriented Programming Lab at an International University - VNUHCM - International University
+</p>
 
 ## Index
 
@@ -21,16 +23,16 @@ Object-Oriented Programming Lab at an International University - VNUHCM - Intern
 We will go through all 7 labs in this repository
 
 ### Lab 1 Rectangle Visualization, Triangle Verification, Distance, E-commerce Order
-[PDF Folder](pdf/Lab1.pdf)
+[PDF Folder](pdf/Lab_1.pdf)
 
 ### Lab 2 Box of particles 
-[PDF Folder](pdf/Lab2.pdf)
+[PDF Folder](pdf/Lab_2.pdf)
 <p align="center">
   <img src="res/lab2_img.jpg" alt="Image Alt Text">
 </p>
 
 ### Lab 3 Inheritance
-[PDF Folder](pdf/Lab3.pdf)
+[PDF Folder](pdf/Lab_3.pdf)
 <p align="center">
   <img src="res/lab3_img.jpg" alt="Image Alt Text">
 </p>
@@ -45,7 +47,7 @@ We will go through all 7 labs in this repository
 </p>
 
 ### Lab 4 
-[PDF Folder](pdf/Lab4.pdf)
+[PDF Folder](pdf/Lab_4.pdf)
 <p align="center">
   <img src="res/lab4_img.jpg" alt="Image Alt Text">
 </p>
@@ -171,3 +173,7 @@ Setting up the working environment (Basic IDE can using Java)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Copyright
+© Copyright NgQsang : All rights reserved.
+Not to be used for commercial purposes.
