@@ -49,10 +49,19 @@ Detail Lab at [PDF Folder](.pdf/Lab_3.pdf)
 ### Lab 4 
 Detail Lab at [PDF Folder](.pdf/Lab_4.pdf)
 <p align="center">
-  <img src="res/lab4_img.jpg" alt="Image Alt Text">
+  <img src="res/lab4_img1.png" alt="Image Alt Text">
 </p>
 <p align="center">
-  <img src="res/lab4_.jpg" alt="Image Alt Text">
+  <img src="res/lab4_img2.png" alt="Image Alt Text">
+</p>
+<p align="center">
+  <img src="res/lab4_img3.png" alt="Image Alt Text">
+</p>
+<p align="center">
+  <img src="res/lab4_img4.png" alt="Image Alt Text">
+</p>
+<p align="center">
+  <img src="res/lab4_img5.png" alt="Image Alt Text">
 </p>
 
 ## Development
