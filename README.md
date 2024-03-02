@@ -28,22 +28,22 @@ Object-Oriented Programming Lab at an International University - VNUHCM - Intern
 ### Lab 2 Box of particles 
 [PDF Folder](.pdf/Lab_2.pdf)
 <p align="center">
-  <img src="res/lab2_img.jpg" alt="Image Alt Text">
+  <img src="res/lab2_img.png" alt="Image Alt Text">
 </p>
 
 ### Lab 3 Inheritance
 [PDF Folder](.pdf/Lab_3.pdf)
 <p align="center">
-  <img src="res/lab3_img.jpg" alt="Image Alt Text">
+  <img src="res/lab3_img1.png" alt="Image Alt Text">
 </p>
 <p align="center">
-  <img src="res/lab3_02_img.jpg" alt="Image Alt Text">
+  <img src="res/lab3_img2.png" alt="Image Alt Text">
 </p>
 <p align="center">
-  <img src="res/lab3_03_img.jpg" alt="Image Alt Text">
+  <img src="res/lab3_img3.png" alt="Image Alt Text">
 </p>
 <p align="center">
-  <img src="res/lab3_04_img.jpg" alt="Image Alt Text">
+  <img src="res/lab3_img4.png" alt="Image Alt Text">
 </p>
 
 ### Lab 4 
