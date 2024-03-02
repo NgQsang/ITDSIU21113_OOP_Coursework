@@ -46,7 +46,7 @@ Detail Lab at [PDF Folder](.pdf/Lab_3.pdf)
   <img src="res/lab3_img4.png" alt="Image Alt Text">
 </p>
 
-### Lab 4 
+### Lab 4 JFrame, JPanel and Graphics
 Detail Lab at [PDF Folder](.pdf/Lab_4.pdf)
 <p align="center">
   <img src="res/lab4_img1.png" alt="Image Alt Text">
