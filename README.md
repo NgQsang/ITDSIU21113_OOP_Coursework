@@ -20,19 +20,19 @@ Object-Oriented Programming Lab at an International University - VNUHCM - Intern
 - [License](#lock-license)
 
 ## About
-We will go through all 7 labs in this repository
+*We will go through all 7 labs in this repository*
 
 ### Lab 1 Rectangle Visualization, Triangle Verification, Distance, E-commerce Order
-[PDF Folder](pdf/Lab_1.pdf)
+[PDF Folder](.pdf/Lab_1.pdf)
 
 ### Lab 2 Box of particles 
-[PDF Folder](pdf/Lab_2.pdf)
+[PDF Folder](.pdf/Lab_2.pdf)
 <p align="center">
   <img src="res/lab2_img.jpg" alt="Image Alt Text">
 </p>
 
 ### Lab 3 Inheritance
-[PDF Folder](pdf/Lab_3.pdf)
+[PDF Folder](.pdf/Lab_3.pdf)
 <p align="center">
   <img src="res/lab3_img.jpg" alt="Image Alt Text">
 </p>
@@ -47,7 +47,7 @@ We will go through all 7 labs in this repository
 </p>
 
 ### Lab 4 
-[PDF Folder](pdf/Lab_4.pdf)
+[PDF Folder](.pdf/Lab_4.pdf)
 <p align="center">
   <img src="res/lab4_img.jpg" alt="Image Alt Text">
 </p>
