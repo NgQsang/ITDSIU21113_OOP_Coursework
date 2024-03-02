@@ -23,7 +23,7 @@ Object-Oriented Programming Lab at an International University - VNUHCM - Intern
 We will go through all 7 labs in this repository
 
 ### Lab 1 Rectangle Visualization, Triangle Verification, Distance, E-commerce Order
-[PDF Folder](pdf/Lab_1..pdf)
+[PDF Folder](.pdf/Lab_1.pdf)
 
 ### Lab 2 Box of particles 
 [PDF Folder](pdf/Lab_2.pdf)
